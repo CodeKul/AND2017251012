@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/codelib" />
             <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/uixml" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

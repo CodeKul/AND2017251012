@@ -1,1 +1,1 @@
-include ':app', ':sample', ':codelib'
+include ':app', ':sample', ':codelib', ':uixml'
