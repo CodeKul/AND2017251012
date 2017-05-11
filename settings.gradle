@@ -1,1 +1,1 @@
-include ':app', ':sample', ':codelib', ':uixml', ':viewmeasurementunits', ':relativelayout'
+include ':app', ':sample', ':codelib', ':uixml', ':viewmeasurementunits', ':relativelayout', ':nestedlayouts'
