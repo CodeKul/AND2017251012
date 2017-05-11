@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/App.iml" filepath="$PROJECT_DIR$/App.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/codelib/codelib.iml" filepath="$PROJECT_DIR$/codelib/codelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relativelayout/relativelayout.iml" filepath="$PROJECT_DIR$/relativelayout/relativelayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/uixml/uixml.iml" filepath="$PROJECT_DIR$/uixml/uixml.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewmeasurementunits/viewmeasurementunits.iml" filepath="$PROJECT_DIR$/viewmeasurementunits/viewmeasurementunits.iml" />

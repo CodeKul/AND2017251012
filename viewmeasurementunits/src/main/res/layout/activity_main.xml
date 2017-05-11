@@ -30,7 +30,7 @@
         android:layout_height="50dp"
         android:text="codekul.com"
         android:textSize="30sp"
-        android:layout_paddingTop="15dp"
+        android:paddingTop="15dp"
         android:paddingLeft="100dp"
         android:background="@color/colorAccent"
         android:textColor="#ffffff"/>
