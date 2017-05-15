@@ -27,3 +27,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+
+    /* ./adb shell am startservice -n com.google.wifisetup/.WifiSetupService -a WifiSetupService.Connect -e ssid melayer -e passphrase #melayer.com# */
+
